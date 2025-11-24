@@ -17,7 +17,7 @@ Installation
 Cloner le dépôt :
 
 bash
-git clone https://github.com/votre-utilisateur/EDX_Dash_Proj.git
+git clone https://github.com/Smaky2019/EDX_Dash_Proj.git
 cd EDX_Dash_Proj
 Installer l’environnement python requis :
 
@@ -48,7 +48,7 @@ Pandas, Matplotlib, Seaborn, sqlite3
 Base de données EdX exportée au format SQLite ou CSV
 
 Auteur
-Projet développé et documenté par [Votre Nom / Organisation]. Merci de mentionner toute contribution ou suggestion dans la section Issues du repository.
+Projet développé et documenté par Udemy. Merci de mentionner toute contribution ou suggestion dans la section Issues du repository.
 
 License
 Ce projet est distribué sous licence MIT (ou autre au choix).
